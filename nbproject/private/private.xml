@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Developer/xampp/htdocs/pos-tafu/assets/myjs/basic.js</file>
+            <file>file:/E:/Developer/xampp/htdocs/pos-tafu/application/models/Products_model.php</file>
+            <file>file:/E:/Developer/xampp/htdocs/pos-tafu/application/controllers/Invoices.php</file>
+            <file>file:/E:/Developer/xampp/htdocs/pos-tafu/application/controllers/Products.php</file>
+            <file>file:/E:/Developer/xampp/htdocs/pos-tafu/assets/myjs/control.js</file>
+            <file>file:/E:/Developer/xampp/htdocs/pos-tafu/application/views/products/view-transfer.php</file>
+            <file>file:/E:/Developer/xampp/htdocs/pos-tafu/application/views/products/transfer_list.php</file>
+            <file>file:/E:/Developer/xampp/htdocs/pos-tafu/application/language/english/english_lang.php</file>
+            <file>file:/E:/Developer/xampp/htdocs/pos-tafu/application/controllers/Search_products.php</file>
+            <file>file:/E:/Developer/xampp/htdocs/pos-tafu/application/views/invoices/invoices.php</file>
+            <file>file:/E:/Developer/xampp/htdocs/pos-tafu/application/models/Invoices_model.php</file>
+            <file>file:/E:/Developer/xampp/htdocs/pos-tafu/application/views/products/products.php</file>
+            <file>file:/E:/Developer/xampp/htdocs/pos-tafu/assets/myjs/custom.js</file>
+        </group>
+    </open-files>
+</project-private>
